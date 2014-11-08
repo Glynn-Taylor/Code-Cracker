@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Loop\LoopShuffle.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Loop\Reset.cs" Line="8" Column="3" />
+      <File FileName="Assets\Scripts\Sequence\PlateHandler.cs" Line="12" Column="16" />
+      <File FileName="Assets\Scripts\Loop\LoopShuffle.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
